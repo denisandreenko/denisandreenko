@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">
+  <a style="margin-top: 10px;" href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there;I'm+Dzianis+👋;Nice+to+meet+you&size=30">
+  </a>
+</h1>
 
 <!--
 **denisandreenko/denisandreenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
