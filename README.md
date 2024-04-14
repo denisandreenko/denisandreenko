@@ -31,6 +31,7 @@
 
 ##  **My Certifications 🏅**
 - [Database Structures and Management with MySQL](https://www.coursera.org/account/accomplishments/certificate/TKFCCQXGMQY8)
+- [Foundations of Project Management](https://www.coursera.org/account/accomplishments/certificate/BMEH3CZAP5Z8)
 - [Docker Certified: Docker Certified Associate](https://certification.mirantis.com/629327d1-a2e0-4aec-970c-338e3f20c9b4)
 
 <p align="left">
